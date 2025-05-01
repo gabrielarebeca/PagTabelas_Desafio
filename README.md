@@ -1,19 +1,19 @@
 # 📋 Paginação de Tabelas - Desafio
 
-Este projeto é um **desafio de paginação de dados em tabela**, desenvolvido em **C# com Windows Forms**, com o objetivo de exibir informações de forma organizada e navegável por páginas.
+Este projeto é um **desafio de paginação de dados em tabela**, desenvolvido utilizando apenas **HTML e CSS**, com foco em estruturação sem uso de JavaScript. O objetivo é exibir dados tabulares de forma organizada, com páginas estilizadas via CSS.
 
 ## 📌 Sobre o Projeto
 
-O projeto simula uma **interface de listagem com paginação**, útil para cenários em que há muitos registros a serem exibidos ao usuário. Através de botões de navegação, é possível ir para a próxima ou anterior página de dados.
+A proposta deste desafio foi construir uma **tabela paginada apenas com HTML e CSS**, simulando a separação dos dados em páginas visuais, com botões de navegação e organização responsiva.
 
 ## ⚙️ Funcionalidades
 
-- 📄 Exibição de dados em tabela  
-- 🔢 Paginação com limite de itens por página  
-- ⏮️ Botões de navegação (Avançar, Voltar)  
-- 🧮 Lógica de cálculo da página atual
+- 📄 Tabela de dados estruturada em HTML  
+- 🎨 Estilização completa com CSS  
+- 🧭 Navegação simulada por páginas (links ou seções separadas)  
+- 💡 Design limpo e organizado
 
 ## 🛠 Tecnologias Utilizadas
 
-- **C# (.NET Framework)**
-- **Windows Forms (WinForms)**
+- **HTML5**
+- **CSS3**
