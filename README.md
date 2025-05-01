@@ -1,17 +1,19 @@
-# Páginas Web
+# 📋 Paginação de Tabelas - Desafio
 
-<h1>Tabela Desafio
-  
-![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/5785886f-8b28-41de-822a-d3c3ae208f3a)
+Este projeto é um **desafio de paginação de dados em tabela**, desenvolvido em **C# com Windows Forms**, com o objetivo de exibir informações de forma organizada e navegável por páginas.
 
-<h1>Tabela 1
-  
-![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/3229fb5c-7876-4610-a303-3bcbc1c5382c)
+## 📌 Sobre o Projeto
 
-<h1>Tabela 2
-  
-![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/c716b80c-9ff6-48eb-8dd2-6ddbdeb0ce53)
+O projeto simula uma **interface de listagem com paginação**, útil para cenários em que há muitos registros a serem exibidos ao usuário. Através de botões de navegação, é possível ir para a próxima ou anterior página de dados.
 
-<h1>Tabela 3
-  
-![image](https://github.com/gabrielarebeca/P-gina_Web_Table/assets/110422932/d83b165a-a42c-414c-8749-03909e95371a)
+## ⚙️ Funcionalidades
+
+- 📄 Exibição de dados em tabela  
+- 🔢 Paginação com limite de itens por página  
+- ⏮️ Botões de navegação (Avançar, Voltar)  
+- 🧮 Lógica de cálculo da página atual
+
+## 🛠 Tecnologias Utilizadas
+
+- **C# (.NET Framework)**
+- **Windows Forms (WinForms)**
